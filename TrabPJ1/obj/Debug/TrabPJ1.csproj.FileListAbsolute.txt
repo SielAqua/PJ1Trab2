@@ -1,2 +1,10 @@
 c:\users\gabriel.oliveira.nave0\documents\visual studio 2015\Projects\TrabPJ1\TrabPJ1\bin\Debug\TrabPJ1.exe.config
 C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\bin\Debug\TrabPJ1.exe.config
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\bin\Debug\TrabPJ1.exe
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\bin\Debug\TrabPJ1.pdb
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\obj\Debug\TrabPJ1.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\obj\Debug\TrabPJ1.Form1.resources
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\obj\Debug\TrabPJ1.Properties.Resources.resources
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\obj\Debug\TrabPJ1.csproj.GenerateResource.Cache
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\obj\Debug\TrabPJ1.exe
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\obj\Debug\TrabPJ1.pdb
