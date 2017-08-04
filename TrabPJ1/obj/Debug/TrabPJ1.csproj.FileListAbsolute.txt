@@ -1,0 +1,2 @@
+c:\users\gabriel.oliveira.nave0\documents\visual studio 2015\Projects\TrabPJ1\TrabPJ1\bin\Debug\TrabPJ1.exe.config
+C:\Users\gabriel.oliveira.NAVE0\Desktop\GitHub\PJ1Trab2\TrabPJ1\bin\Debug\TrabPJ1.exe.config
